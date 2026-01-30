@@ -12,7 +12,6 @@ Components Used:
 
 Arduino Uno
 Adafruit BMP280 sensor for temperature and air pressure
-![PXL_20260130_163409100](https://github.com/user-attachments/assets/e10db40e-a9ed-4c97-9247-b5e61dc7f7b7)
 
 SH1106 OLED display
 Capacitive Soil Moisture Sensor v2.0.0
@@ -24,3 +23,7 @@ The sensors continuously collect environmental and soil data.
 All measured values are shown in real time on the OLED display.
 
 The system can be used for houseplants, greenhouses, and automated irrigation projects.
+![PXL_20260130_163409100](https://github.com/user-attachments/assets/e10db40e-a9ed-4c97-9247-b5e61dc7f7b7)
+![PXL_20260130_163440655 MACRO_FOCUS](https://github.com/user-attachments/assets/e1616e8c-e999-4927-9ffd-178015ac82ed)
+![PXL_20260130_164449060](https://github.com/user-attachments/assets/8cd4088e-be04-4edc-b4e6-afafa2723b60)
+
