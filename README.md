@@ -12,8 +12,11 @@ Components Used:
 
 Arduino Uno
 Adafruit BMP280 sensor for temperature and air pressure
+![PXL_20260130_163409100](https://github.com/user-attachments/assets/e10db40e-a9ed-4c97-9247-b5e61dc7f7b7)
+
 SH1106 OLED display
 Capacitive Soil Moisture Sensor v2.0.0
+!
 
 How It Works:
 
